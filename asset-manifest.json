@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/abdsxip/reactTextUtil.git/static/css/main.abd64e84.css",
+    "main.js": "/abdsxip/reactTextUtil.git/static/js/main.c5221fb0.js",
+    "static/js/787.b0e29ad6.chunk.js": "/abdsxip/reactTextUtil.git/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/abdsxip/reactTextUtil.git/index.html",
+    "main.abd64e84.css.map": "/abdsxip/reactTextUtil.git/static/css/main.abd64e84.css.map",
+    "main.c5221fb0.js.map": "/abdsxip/reactTextUtil.git/static/js/main.c5221fb0.js.map",
+    "787.b0e29ad6.chunk.js.map": "/abdsxip/reactTextUtil.git/static/js/787.b0e29ad6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.c5221fb0.js"
+  ]
+}
