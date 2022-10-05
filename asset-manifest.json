@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/abdsxip/my-first-app.git/static/css/main.abd64e84.css",
-    "main.js": "/abdsxip/my-first-app.git/static/js/main.89789b01.js",
-    "static/js/787.b0e29ad6.chunk.js": "/abdsxip/my-first-app.git/static/js/787.b0e29ad6.chunk.js",
-    "index.html": "/abdsxip/my-first-app.git/index.html",
-    "main.abd64e84.css.map": "/abdsxip/my-first-app.git/static/css/main.abd64e84.css.map",
-    "main.89789b01.js.map": "/abdsxip/my-first-app.git/static/js/main.89789b01.js.map",
-    "787.b0e29ad6.chunk.js.map": "/abdsxip/my-first-app.git/static/js/787.b0e29ad6.chunk.js.map"
+    "main.css": "/abdsxip/txtUtilApp.git/static/css/main.abd64e84.css",
+    "main.js": "/abdsxip/txtUtilApp.git/static/js/main.be99b634.js",
+    "static/js/787.b0e29ad6.chunk.js": "/abdsxip/txtUtilApp.git/static/js/787.b0e29ad6.chunk.js",
+    "index.html": "/abdsxip/txtUtilApp.git/index.html",
+    "main.abd64e84.css.map": "/abdsxip/txtUtilApp.git/static/css/main.abd64e84.css.map",
+    "main.be99b634.js.map": "/abdsxip/txtUtilApp.git/static/js/main.be99b634.js.map",
+    "787.b0e29ad6.chunk.js.map": "/abdsxip/txtUtilApp.git/static/js/787.b0e29ad6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.abd64e84.css",
-    "static/js/main.89789b01.js"
+    "static/js/main.be99b634.js"
   ]
 }
